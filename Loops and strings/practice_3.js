@@ -1,4 +1,4 @@
-let fullName = prompt("Enter your Full Name:");
+let fullName = prompt("Enter your FullName without space :");
 
 let userName = "@"+fullName+fullName.length;
 console.log(userName);
